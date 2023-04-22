@@ -1,0 +1,48 @@
+body{
+    background-color: #B9EDDD ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.img1{
+    width: 500px;
+    height: 330px;
+
+    
+}
+.img2{
+    width: 500px;
+    height: 330px;
+    padding-left: 50%;
+
+    border-radius: 50px;
+    position: relative;top: 40px; left: 40px;
+
+}
+h1{
+    font-size: 60px;
+    color:#fff;
+    background-color:#00FFCA ;
+}
+p{
+    font-size: 30px;
+    color: #FF6D60;
+}
+ul{
+    font-size: 30px;
+}
+h3{
+    font-size: 40px;
+    font-style:Regular 400 at 48px;
+    color: #3795BD;
+
+}
+/*METHOD*/
+.method1{
+    width: 300px;
+    height: 300px;
+}
+/*index3*/
+.topview{
+    width: 300px;
+    height: 300px;
+}
